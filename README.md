@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Shobit123
-- 👀 I’m interested in NEw Learning Tech and coding 
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Shobit Singh
+- 👀 I’m interested in New Learning Technology and coding skills 
 - 💞️ I’m looking to collaborate on my team work
 - 📫 How to reach me shobitsingh84@gmail.com
 
